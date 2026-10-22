@@ -1,0 +1,30 @@
+# 个人简历与求职资料
+/private/
+/resumes/
+/references/profile.md
+
+# 本地运行记录与生成结果
+/work/
+/outputs/
+/logs/
+*.log
+
+# 本地环境变量
+.env
+.env.*
+!.env.example
+
+# 浏览器用户数据与会话
+/browser-data/
+/chrome-profile/
+DevToolsActivePort
+storage-state*.json
+cookies*.json
+
+# Node.js 依赖
+node_modules/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Offer-come"
+  short_description: "根据求职意愿筛选BOSS岗位并发送定制开场白，简历由求职者自行发送"
+  default_prompt: "使用 $offer-come，根据我的简历和求职意愿筛选BOSS直聘岗位并发送针对性开场白，简历附件由我自己发送。"
